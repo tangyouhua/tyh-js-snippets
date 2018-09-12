@@ -16,9 +16,9 @@
 ## Reference
 * JavaScript精粹 (JavaScript: the Good Parts)
 
-[1]: https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter01
-[2]: https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/01_whitespace.js
-[3]: https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/02_names.js
-[4]: https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/03_numbers.js
-[5]: https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/04_strings.js
-[101]: https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_utility/outputting_text_to_the_console.js
+[1]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter01
+[2]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/01_whitespace.js
+[3]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/02_names.js
+[4]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/03_numbers.js
+[5]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/04_strings.js
+[101]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_utility/outputting_text_to_the_console.js
