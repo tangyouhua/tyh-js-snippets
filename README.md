@@ -13,6 +13,8 @@
 
 ## JavaScript Utility
 * [01 console 输出文本][101]
+* [02 格式化字符串][102]
+
 
 ## Reference
 * JavaScript精粹 (JavaScript: the Good Parts)
@@ -24,3 +26,4 @@
 [5]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/04_strings.js
 [6]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/05_statements.js
 [101]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_utility/outputting_text_to_the_console.js
+[102]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_utility/formatting_string.js

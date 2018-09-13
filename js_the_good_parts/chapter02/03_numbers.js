@@ -10,7 +10,7 @@ var v2 = 1e2;
 console.log(v1 === v2); // true
 
 // NaN 表示一个不能产生正常结果的运算结果
-var e1 = parseInt("abc"); // 操作失败,产生 NaN
+var e1 = parseInt("abc"); // 操作假,产生 NaN
 
 // isNaN(number) 可以检测 NaN
 console.log('parseInt("abc") = ', e1, ', isNaN(e1) = ', isNaN(e1));

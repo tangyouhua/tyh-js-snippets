@@ -23,6 +23,7 @@ var $n;
 // short
 // 01-02 变量定义
 // var
+// let
 
 // 02 修饰符
 // abstract
@@ -46,12 +47,15 @@ var $n;
 // 05 流程控制
 // break
 // case
+// default
 // continue
 // do
 // else
 // for
 // goto
 // if
+// in 在 for ... in 遍历对象属性
+// of 在 for ... of 遍历数组
 // return
 // switch
 // while
@@ -60,7 +64,7 @@ var $n;
 // try
 // catch
 // finally
-// throw
+// throw 抛出异常
 // throws
 
 // 07 包,类,接口
@@ -76,9 +80,13 @@ var $n;
 // 07-1 内建对象
 // Math 包含一套用于数字的方法
 
+// 07-2 对象操作
+// new 新建对象
+// in 在 for ... in 枚举一个对象的所有属性名
+
 // 08 函数
-// function
-// isNaN
+// function 定义函数
+// isNaN 判断数值是否 NaN
 // void
 
 // 07 并发
@@ -90,9 +98,6 @@ var $n;
 
 // TODO 不清楚用法的关键字
 // debugger
-// default
 // delete
-// in
 // native
-// new
 // with
