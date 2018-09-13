@@ -20,6 +20,7 @@
 ## Reference
 * JavaScript精粹 (JavaScript: the Good Parts)
 * [廖雪峰: 箭头函数](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001438565969057627e5435793645b7acaee3b6869d1374000)
+* [MDN: Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 [1]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter01
 [2]:https://github.com/tangyouhua/tyh-js-snippets/tree/master/js_the_good_parts/chapter02/01_whitespace.js

@@ -220,7 +220,7 @@ var primaryExpression = {
 // primaryExpression.TestThisCallApply();
 // primaryExpression.TestThisCallApplyArg();
 // primaryExpression.TestThisBind();
-primaryExpression.TestThisArrowFunc();
+// primaryExpression.TestThisArrowFunc();
 // primaryExpression.TestThisProtoChain();
 // primaryExpression.TestThisSetGet();
 // primaryExpression.TestThisConstructor();
